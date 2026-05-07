@@ -2,7 +2,7 @@
 
 An interactive stock backtesting tool built with **Streamlit**, supporting multiple strategies with bilingual Chinese/English UI. Upload your own data and compare strategy performance visually.
 
-The tool can be used directly from streamlit : https://ricky-stock-regression-tool.streamlit.app/
+The tool can be used on-line : https://ricky-stock-regression-tool.streamlit.app/
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue) ![Streamlit](https://img.shields.io/badge/streamlit-1.35+-red) ![License](https://img.shields.io/badge/license-MIT-green)
 
